@@ -10,3 +10,4 @@ class WelcomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_welcome)
     }
 }
+//house
